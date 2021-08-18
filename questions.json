@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Who am I?",
+        "choice1": "Noob Coder",
+        "choice2": "Tech_Sammy",
+        "choice3": "Samuel",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 1
+    },
+    {
+        "question": "What comes to your mind when you hear tech_sammy?",
+        "choice1": "Noob Coder",
+        "choice2": "Noobda hai sala",
+        "choice3": "Learner,like me(you)...",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 2
+    },
+    {
+        "question": "Is tech_sammy an introvert?",
+        "choice1": "No",
+        "choice2": "Darpoke hai sala",
+        "choice3": "Yessssssssssssss!",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 2
+    },
+    {
+        "question": "What is tech_sammy most scared of?",
+        "choice1": "Grills",
+        "choice2": "Blackholes",
+        "choice3": "Time Travel",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 1
+    },
+    {
+        "question": "Does Sammy have girlfriend?",
+        "choice1": "Yup",
+        "choice2": "He prefers to be alone",
+        "choice3": "Nope",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 2
+    },
+    {
+        "question": "IS it OK to ask him if he's Single?",
+        "choice1": "No",
+        "choice2": "Yes!",
+        "choice3": "Yup!But who would even ask such a looser ",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 3
+    },
+    {
+        "question": "Who is Sammy's Best Friend?",
+        "choice1": "Someone I don't know.",
+        "choice2": "Games",
+        "choice3": "Coding/Technology",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 4
+    },
+    {
+        "question": "Where does Sammy spend most of his time?",
+        "choice1": "Studies / Coding",
+        "choice2": "Games",
+        "choice3": "Chatting/Meeting his friends",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 4
+    },
+    {
+        "question": "Can Sammy cross 1k followers till next month?",
+        "choice1": "Impossible",
+        "choice2": "Possible",
+        "choice3": "Itni Jaldi bhi kya hai..",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 3
+    },
+    {
+        "question": "Can Sammy make it to Google?",
+        "choice1": "No",
+        "choice2": "Tumse na ho payega :( ",
+        "choice3": "Yes!",
+        "choice4": "Merko kya pata / idk and idc",
+        "answer": 2
+    }
+]
