@@ -1,2 +1,2 @@
-# QuizApp.github.io
+# QuizApp
  Sammy'sQuizApp 
